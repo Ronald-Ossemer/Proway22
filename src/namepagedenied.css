@@ -1,0 +1,456 @@
+frame1 {
+  position: absolute;
+  width: 1500px;
+  height: 800px;
+
+  position: absolute;
+  width: 1500px;
+  height: 800px;
+  left: -4.36px;
+  top: 1.1px;
+  background: #807696;
+  transform: rotate(-0.04deg);
+}
+
+input {
+  position: absolute;
+  width: 255px;
+  min-height: 37px;
+  left: 21px;
+  top: 320px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.input {
+  position: absolute;
+  width: 255px;
+  min-height: 37px;
+  left: 21px;
+  top: 480px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.input1 {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: -435px;
+  top: -320px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.input2 {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: -100px;
+  top: -240px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.input3 {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: -100px;
+  top: -400px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.input4 {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: -100px;
+  top: -320px;
+
+  background: #eeeeee;
+
+  font-family: reboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 0px;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+h1 {
+  position: absolute;
+  width: 295px;
+  height: 110px;
+  left: 100px;
+  top: 125px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: absolute;
+  font-size: 48px;
+  line-height: 50px;
+
+  text-align: left;
+
+  color: #000000;
+  z-index: 100;
+}
+
+h2 {
+  position: absolute;
+  width: 295px;
+  height: 35px;
+  left: -83px;
+  top: 265px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h3 {
+  position: absolute;
+  width: 260px;
+  height: 35px;
+  left: -37px;
+  top: 342px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h4 {
+  position: absolute;
+  width: 226px;
+  height: 40px;
+  left: 16px;
+  top: 412px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h5 {
+  position: absolute;
+  width: 251px;
+  height: 39px;
+  left: 335px;
+  top: 405px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h6 {
+  position: absolute;
+  width: 243px;
+  height: 28px;
+  left: 265px;
+  top: 227px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h7 {
+  position: absolute;
+  width: 238px;
+  height: 38px;
+  left: 290px;
+  top: 370px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+h8 {
+  position: absolute;
+  width: 433px;
+  height: 165px;
+  left: 637px;
+  top: 630px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 50px;
+
+  text-align: left;
+
+  color: #000000;
+  z-index: 100;
+}
+
+h9 {
+  position: absolute;
+  width: 384px;
+  height: 88px;
+  left: 438px;
+  top: 260px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 88px;
+  z-index: 200;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+img {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 21px;
+  top: 7px;
+  z-index: 0;
+}
+
+imagem img {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 824px;
+  top: 272px;
+  z-index: 200;
+}
+
+div img {
+  position: absolute;
+  width: 480px;
+  height: 480px;
+  left: 860px;
+  top: 138px;
+}
+
+a {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 455px;
+  top: 720px;
+}
+
+barra1 {
+  position: absolute;
+  width: 1500px;
+  height: 20px;
+  left: -9px;
+  right: px;
+  top: -2px;
+  z-index: -100;
+
+  background: #5e4e6f;
+}
+
+barra2 {
+  position: absolute;
+  width: 1500px;
+  height: 100px;
+  left: -7px;
+  top: 180px;
+
+  background: #5e4e6f;
+}
+
+barra3 {
+  position: absolute;
+  width: 1500px;
+  height: 100px;
+  left: -10px;
+  top: 440px;
+
+  background: #5e4e6f;
+}
+
+bloco {
+  position: absolute;
+  width: 1500px;
+  height: 900px;
+  left: -2px;
+  top: -100px;
+
+  background: rgba(0, 0, 0, 0.6);
+}
+
+bloco1 {
+  position: absolute;
+  width: 550px;
+  height: 217px;
+  left: 430px;
+  top: 230px;
+
+  background: #d7d7d7;
+  z-index: 100;
+  border-radius: 32px;
+}
+
+bloco2 {
+  position: absolute;
+  width: 575px;
+  height: 235px;
+  left: 418px;
+  top: 222px;
+
+  background: #868686;
+  z-index: 0;
+  border-radius: 32px;
+}
+
+button {
+  position: absolute;
+  width: 220px;
+  height: 40px;
+  left: 1000px;
+  top: 37px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+
+  background: linear-gradient(180deg, #9c68ae 0%, rgba(60, 44, 66, 0.48) 100%);
+  border-radius: 16px;
+  z-index: -100;
+}
+
+.button {
+  position: absolute;
+  width: 212px;
+  height: 37px;
+  left: 210px;
+  top: 550px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+  z-index: -100;
+}
+
+.button1 {
+  position: absolute;
+  width: 220px;
+  height: 45px;
+  left: 510px;
+  top: 375px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(179, 179, 179, 0.23) 0%,
+    #8c8c8c 100%
+  );
+  border-radius: 16px;
+  z-index: 100;
+
+  font-family: jaldi;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}

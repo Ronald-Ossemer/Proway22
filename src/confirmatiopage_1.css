@@ -1,0 +1,278 @@
+frame1 {
+  position: absolute;
+  width: 1500px;
+  height: 800px;
+
+  position: absolute;
+  width: 1500px;
+  height: 800px;
+  left: -4.36px;
+  top: 1.1px;
+  background: #807696;
+  transform: rotate(-0.04deg);
+}
+
+input {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: 130px;
+  top: 385px;
+
+  background: #eeeeee;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+.input {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: 130px;
+  top: 475px;
+
+  background: #eeeeee;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+.input1 {
+  position: absolute;
+  width: 255px;
+  height: 37px;
+  left: 130px;
+  top: 565px;
+
+  background: #eeeeee;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+barra {
+  position: absolute;
+  width: 1500px;
+  height: 20px;
+  left: -10px;
+  right: px;
+  top: -2px;
+  z-index: 0;
+
+  background: #5e4e6f;
+}
+
+barra1 {
+  position: absolute;
+  width: 1500px;
+  height: 100px;
+  left: -10px;
+  top: 180px;
+
+  background: #5e4e6f;
+}
+
+barra2 {
+  position: absolute;
+  width: 1500px;
+  height: 100px;
+  left: -10px;
+  top: 620px;
+
+  background: #5e4e6f;
+}
+
+img {
+  position: relative;
+  width: 72px;
+  height: 72px;
+  left: 44px;
+  top: 62px;
+  z-index: 10;
+}
+
+div img {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 856px;
+  top: 220px;
+}
+
+h1 {
+  position: absolute;
+  width: 918px;
+  height: 114px;
+  left: 130px;
+  top: 95px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 110px;
+
+  color: #000000;
+  z-index: 200;
+}
+
+h2 {
+  position: absolute;
+  width: 647px;
+  height: 98px;
+  left: 130px;
+  top: 190px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 74px;
+  z-index: 100;
+
+  color: #000000;
+}
+
+h3 {
+  position: absolute;
+  width: 637px;
+  height: 81px;
+  left: 130px;
+  top: 250px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+h4 {
+  position: absolute;
+  width: 227px;
+  height: 32px;
+  left: 130px;
+  top: 325px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+h5 {
+  position: absolute;
+  width: 229px;
+  height: 41px;
+  left: 130px;
+  top: 405px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+h6 {
+  position: absolute;
+  width: 257px;
+  height: 45px;
+  left: 130px;
+  top: 478px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+bloco {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  left: 42px;
+  top: 61px;
+  z-index: 9;
+  border-radius: 50%;
+
+  background: #000000;
+}
+
+bloco1 {
+  position: absolute;
+  width: 70px;
+  height: 76px;
+  left: 52px;
+  top: 62px;
+  border-radius: 50%;
+
+  background: #474747;
+}
+
+bloco2 {
+  position: absolute;
+  width: 20px;
+  height: 0px;
+  left: 140px;
+  top: 100px;
+
+  z-index: 100;
+  border: 2px solid #000000;
+}
+
+button {
+  position: absolute;
+  width: 220px;
+  height: 40px;
+  left: 1167px;
+  top: 49px;
+
+  background: linear-gradient(180deg, #9c68ae 0%, rgba(60, 44, 66, 0.48) 100%);
+  border-radius: 16px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.button {
+  position: absolute;
+  width: 220px;
+  height: 40px;
+  left: 302px;
+  top: 630px;
+
+  background: linear-gradient(180deg, #9c68ae 0%, rgba(60, 44, 66, 0.48) 100%);
+  border-radius: 16px;
+}
